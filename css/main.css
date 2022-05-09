@@ -629,6 +629,36 @@ a {
 }
 
 
+.navoil10 {
+    margin-top: 10px;
+    margin-left: -1100px;
+    width: 260px;
+}
+
+.navoil10 li{
+    text-align: left;
+    list-style:none !important;
+    padding:8px;
+}
+
+.navoil10 li a{
+    color: #50996d;
+}
+
+.navoil10 ul {
+    border-radius: 5px;
+    font-size:16px;
+    width: 80%;
+    color: white;
+    padding-left: 0;
+    text-align: center;
+    background-color: #81d4a2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
+}
+
 .navmein {
     margin-left: 20px;
     width: 260px;
